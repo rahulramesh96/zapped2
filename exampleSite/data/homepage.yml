@@ -30,7 +30,7 @@ vision:
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
       <br>Paul Sanar Founder
-  - title: The Omega Way
+  - title: The Zapped Way
     image: images/vision/vision-03.jpg
     content: I started with a vision of creating an atmosphere where people come first.
       <br>Paul Sanar Founder
@@ -68,7 +68,7 @@ contact:
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join the Zapped family. <br>Click below to view the career opportunities
+    we have for you.
   button_label: Apply Now
   button_link: career
