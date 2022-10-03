@@ -10,9 +10,9 @@ pre = "#"
 url = "contact"
 weight = 5
 [[menu.main]]
-name = "Career"
+name = "Careers"
 pre = ""
-url = "career"
+url = "careers"
 weight = 4
 [[menu.main]]
 name = "Services"
