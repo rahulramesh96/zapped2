@@ -37,11 +37,11 @@ funfacts:
       needs.
 career:
   enable: true
-  title: Job Opening
+  title: Job Openings
   job_item:
   - name: React.js Developer
     location: Mumbai, India
-    form_action: https://getform.io/f/860162e6-4f15-4aef-b5db-2fb17e5092c5
+    form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
@@ -52,8 +52,8 @@ career:
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities.
       Time management is key.'
-  - name: DevOps Engineer
-    location: Hamburg, Germany
+  - name: Vue.js Developer
+    location: Mumbai, India
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
@@ -64,8 +64,8 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: Operations Manager
-    location: Hamburg, Germany
+  - name: Node.js Developer
+    location: Dubai,UAE
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
@@ -76,8 +76,8 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: International Compliance Officer
-    location: Hamburg, Germany
+  - name: Javascript developer
+    location: Dublin, Ireland
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
@@ -90,22 +90,4 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
-    <form action="https://getform.io/f/860162e6-4f15-4aef-b5db-2fb17e5092c5" method="POST">
-        <input type="text" name="name">
-        <input type="email" name="email">
-        <input type="text" name="message">
-        <!-- checkbox handle --> 
-        <input type="checkbox" name="subscribe" value="yes" checked>
-        <input type="hidden" name="subscribe" value="no">
-        <!-- radio button handle --> 
-        <input type="radio" name="gender" value="male" checked>
-        <input type="radio" name="gender" value="female">
-        <input type="radio" name="gender" value="other">
-        <!-- select field handle --> 
-        <select name="work-experience">
-            <option value="one-year">0-1 years</option>
-            <option value="one-five-years">1-5 years</option>
-            <option value="five-plus-years">5+ years</option>
-        </select>
-        <button type="submit">Send</button>
-    </form>
+    
