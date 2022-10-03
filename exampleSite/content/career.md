@@ -39,7 +39,7 @@ career:
   enable: true
   title: Job Openings
   job_item:
-  - name: React.js Developer
+  - name: React js Developer
     location: Mumbai, India
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
@@ -52,7 +52,7 @@ career:
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities.
       Time management is key.'
-  - name: Vue.js Developer
+  - name: Vue js Developer
     location: Mumbai, India
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
@@ -64,7 +64,7 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-  - name: Node.js Developer
+  - name: Node js Developer
     location: Dubai,UAE
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
