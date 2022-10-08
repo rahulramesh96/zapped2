@@ -50,7 +50,7 @@ product:
     image: images/product/product-02.jpg
     content: Our whole effort is geared at improving our clients' revenue and promoting their brand. We accomplish this through enhancing website design and search engine exposure, increasing social media engagement, and applying cutting-edge marketing methods.
     project_url: "#"
-  - title: Artificial Intelligence Models
+  - title: AI Models
     image: images/product/product-03.jpg
     content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. 
     project_url: "#"
