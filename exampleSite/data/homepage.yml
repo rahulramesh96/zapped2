@@ -52,8 +52,7 @@ product:
     project_url: "#"
   - title: Artificial Intelligence Models
     image: images/product/product-03.jpg
-    content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. 
-We can transform your business to optimize your performance by using the power of artificial intelligence and deep learning through a variety of goods and services encompassing training, consultancy, technology licensing, and creative product creation.
+    content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. We can transform your business to optimize your performance by using the power of artificial intelligence and deep learning through a variety of goods and services encompassing training, consultancy, technology licensing, and creative product creation.
     project_url: "#"
 contact:
   enable: true
