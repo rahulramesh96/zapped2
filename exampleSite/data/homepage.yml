@@ -25,37 +25,35 @@ vision:
   - title: People First
     image: images/vision/vision-01.jpg
     content: We started with a vision of creating an atmosphere where people come
-      first. 
+      first. The flexibility to work is the top most concern for us. Be it Remote or hybrid. 
   - title: Employee Culture
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
+    content: Your career at Zapped may evolve in a variety of ways, and we value growth and development in all of its manifestations. Management is vital, and we prefer to help those who love it build those talents. We also expressly encourage team members to discover and invest in their passions, recognizing the benefits to your team and the organization when you become a more successful team player. We encourage team members to take on a variety of responsibilities at Zapped throughout their careers, and we prefer to promote internally to foster a strong understanding of business culture and processes in senior leadership.
       
   - title: The Zapped Way
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
+    content: In Zapped, we believe in constant learning of new processes and implementing the same for our partners and clients.
       
 product:
   enable: true
   section: Services
   title: Some Of Our Best Services
-  content: See the innovation that has come through the Rio way. As an advancement
+  content: See the innovation that has come through the Rio way. As an internet
     company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+    Below you can find the first service available to help you do so.
   product_item:
   - title: Web Development
     image: images/product/product-01.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: As a reputable web development business, we provide all aspects of a web project, including analysis, design, programming, testing, and more. Whatever your online project is - a web app or a sophisticated platform - with our web development services, you will be able to leverage the full power of the Cloud. Zapped Technology is a major participant in the bespoke web development services sector. As a result, we have completed a number of projects in various industries.
     project_url: "#"
   - title: Digital Marketing
     image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: Our whole effort is geared at improving our clients' revenue and promoting their brand. We accomplish this through enhancing website design and search engine exposure, increasing social media engagement, and applying cutting-edge marketing methods.
     project_url: "#"
   - title: Artificial Intelligence Models
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. 
+We can transform your business to optimize your performance by using the power of artificial intelligence and deep learning through a variety of goods and services encompassing training, consultancy, technology licensing, and creative product creation.
     project_url: "#"
 contact:
   enable: true
