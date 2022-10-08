@@ -28,7 +28,7 @@ vision:
       first. The flexibility to work is the top most concern for us. Be it Remote or hybrid. 
   - title: Employee Culture
     image: images/vision/vision-02.jpg
-    content: Your career at Zapped may evolve in a variety of ways, and we value growth and development in all of its manifestations. Management is vital, and we prefer to help those who love it build those talents. We also expressly encourage team members to discover and invest in their passions, recognizing the benefits to your team and the organization when you become a more successful team player. We encourage team members to take on a variety of responsibilities at Zapped throughout their careers, and we prefer to promote internally to foster a strong understanding of business culture and processes in senior leadership.
+    content: Your career at Zapped may evolve in a variety of ways, and we value growth and development in all of its manifestations. Management is vital, and we prefer to help those who love it build those talents. We also expressly encourage team members to discover and invest in their passions, recognizing the benefits to your team and the organization when you become a more successful team player. 
       
   - title: The Zapped Way
     image: images/vision/vision-03.jpg
@@ -44,7 +44,7 @@ product:
   product_item:
   - title: Web Development
     image: images/product/product-01.jpg
-    content: As a reputable web development business, we provide all aspects of a web project, including analysis, design, programming, testing, and more. Whatever your online project is - a web app or a sophisticated platform - with our web development services, you will be able to leverage the full power of the Cloud. Zapped Technology is a major participant in the bespoke web development services sector. As a result, we have completed a number of projects in various industries.
+    content: As a reputable web development business, we provide all aspects of a web project, including analysis, design, programming, testing, and more. 
     project_url: "#"
   - title: Digital Marketing
     image: images/product/product-02.jpg
@@ -52,7 +52,7 @@ product:
     project_url: "#"
   - title: Artificial Intelligence Models
     image: images/product/product-03.jpg
-    content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. We can transform your business to optimize your performance by using the power of artificial intelligence and deep learning through a variety of goods and services encompassing training, consultancy, technology licensing, and creative product creation.
+    content: We introduce artificial intelligence and machine learning into new fields. We create groundbreaking deep learning technologies to advance manufacturing, diagnostics, safety, supply chains, commerce, cybersecurity, and healthcare. We offer sophisticated sound, signal, picture, video, and text analytics. 
     project_url: "#"
 contact:
   enable: true
