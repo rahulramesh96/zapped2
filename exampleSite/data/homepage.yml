@@ -42,17 +42,17 @@ product:
     company, the goal is to continuously find areas to help business push forward.
     Below you can find the first product available to help you do so.
   product_item:
-  - title: Ecosystem
-    image: images/product/product-03.jpg
+  - title: Web Development
+    image: images/product/product-01.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#"
-  - title: Objects
+  - title: Digital Marketing
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#"
-  - title: Publisher
+  - title: Artificial Intelligence Models
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
